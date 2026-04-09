@@ -1,1 +1,2 @@
-# RideWise07
+# RideWise
+AI Smart Travel
